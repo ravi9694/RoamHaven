@@ -1,0 +1,419 @@
+[{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f82b"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Cider Chalet-F: 2BRK MountainView Apartment",
+  "address": "Manali, Himachal Pradesh, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863219/Airbnb/Places/w69biobbqjdcuqx94w1x.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863227/Airbnb/Places/bqswb4njnpm8jskgybil.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863239/Airbnb/Places/cbb84pv2lrjr2ecsacir.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863247/Airbnb/Places/gewc6nkizmxbysir5va5.jpg"
+  ],
+  "description": "A breathtaking property nestled amidst apple orchards with a 360 degree view of the magnificent snow capped Himalayas: Rohtang Pass, Solang Valley, Manali Peak. Just 12 minutes from mall road & Solang valley, it’s the perfect base to experience & explore Manali! This top floor apartment is tastefully done up with all modern amenities & equipped kitchenette. We have a lawn, garden & outdoor sitout. Free parking & 32mbps wifi is provided. Sightseeing cab, treks & paragliding arranged on request.",
+  "perks": [
+    "enterence",
+    "wifi",
+    "radio",
+    "tv"
+  ],
+  "extraInfo": "-Check-in time is 1pm & Check-out time is 10 am. Early check-in or late checkout is permitted based on availability and prior intimation.\n*Based on availability, early checkin is permitted from 10am onwards. If you wish to check-in before 10am, an early checkin fee will be applicable.\n*Late checkout is permitted based on availability and a fee may be applicable based on checkout time. Please contact host regarding the same.",
+  "checkIn": 13,
+  "checkOut": 10,
+  "maxGuests": 4,
+  "price": 2840,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f82c"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Whispering Pines Cottages|Treehouse|Tandi",
+  "address": "  Jibhi, Himachal Pradesh, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863606/Airbnb/Places/y0lytplburvclb73snwg.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863614/Airbnb/Places/ncaq2bbprjrorruwbztm.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863627/Airbnb/Places/uolfzcl6tajguxm8qtff.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863635/Airbnb/Places/xze04l4bxsfzwpvk84ls.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863643/Airbnb/Places/w9wkxxdqcj0bm1bw3vtl.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863650/Airbnb/Places/b7vuk8zx5qiiv3pfx3xk.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863659/Airbnb/Places/rqgcdbe184truv9ipx1b.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863665/Airbnb/Places/xwbkd11wsh7zx5rdsvua.jpg"
+  ],
+  "description": "A stay straight out of the pages of a Ruskin Bond novel.\n\nOne of the most successful Airbnbs in India\n\n• In Tandi, a village above Jibhi\n• Tree inside. A balcony, double bed, and a remarkably clean, modern bathroom.\n• If you're more then two people, the third person will be on an extra mattress.\n• Beautiful sunrise\n• You'll get two dongles-Airtel and Jio-with as much data as you need\n• Hair Dryer\n• Breakfast\n• Oven/Toaster/Coffee Maker/Refrigerator\nParking spot is available.",
+  "perks": [
+    "wifi",
+    "tv",
+    "parking",
+    "radio"
+  ],
+  "extraInfo": "You will get whatever you need from the market at your doorstep.\n•You will also get your clothes washed, dried and ironed at a modest price.\n•We'll make bonfire at request.\n•We cook delicious Himachali food.\n•We go with guests on short hikes.\n•We'll arrange the cabs for you, or provide you the number of the taxi union.\nThe cab prices aren't within our control, and fluctuate widely.",
+  "checkIn": 13,
+  "checkOut": 11,
+  "maxGuests": 3,
+  "price": 5999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f82d"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Suite ~ PATAN MAHAL",
+  "address": "Patan, Rajasthan, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863877/Airbnb/Places/itt1teaqbgh4rdguxwhx.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863894/Airbnb/Places/bs8g40oqewee2imytcxe.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863903/Airbnb/Places/nyk8tdqnwuweyb28dxii.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863918/Airbnb/Places/lpzfcl3hhtyzf0mxohpa.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863940/Airbnb/Places/epkgtuvjrikzqfr50xap.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1678863950/Airbnb/Places/o7hkkas1p3fvrzvhok62.jpg"
+  ],
+  "description": "The beautifully appointed rooms at Patan Mahal have period furniture showcasing the skill and expertise of the Rajasthani artisan. Beautiful paintings on the wall and roofs have been carefully restored. The nooks and crannies have been retained, and many rooms contain surprises - there is the room with a trapdoor, and there is more than one room with little doors and staircases that lead into the turrets, the kind of spaces that a writer or artist looking to escape the world will love.",
+  "perks": [
+    "wifi",
+    "radio",
+    "pets",
+    "parking",
+    "tv",
+    "enterence"
+  ],
+  "extraInfo": "The historical city of Patan is about 70 miles northeast of Jaipur,on the Kotputli Sikar road, off the National Highway 8, the road which connects Jaipur and Delhi.\n\nNestled in a valley formed by 3 hills, Patan Mahal rises in the distance at the end of the city. The palace is well-located with an unhindered birds-eye view of the 13th century ancestral fort and another palace called Badal Mahal which stands loftily at an imposing 2000 ft above sea level.\n",
+  "checkIn": 14,
+  "checkOut": 11,
+  "maxGuests": 4,
+  "price": 11997,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f82e"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "4BHK Pool Villa Areca by The Rentalgram",
+  "address": "  Lonavla, Maharashtra, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1680771390/Airbnb/Places/umrvoqzy7ry9go7ju3uv.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1680771398/Airbnb/Places/qtb2yspb0k5oirsnav2r.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1680771406/Airbnb/Places/gifhwogwwmmye0zeecsi.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1680771413/Airbnb/Places/z3k7hggigjals2xkjnfk.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1680771420/Airbnb/Places/kwydfw36vmszcl46haik.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1680771438/Airbnb/Places/xuuxrwu0gopupofvxwpm.jpg"
+  ],
+  "description": "Ornate in look, equipped with luxurious and essential furniture, Pool Villa Areca is the perfect space for someone looking for privacy away from the hustle and bustle of the city not too far away from the city!\n",
+  "perks": [
+    "wifi",
+    "tv",
+    "radio",
+    "parking",
+    "pets",
+    "enterence"
+  ],
+  "extraInfo": "Tucked in frondescent hills and serene laps of nature, the 4 BHK villa has a terrace with seating arrangements that offers an endless view of the lush green landscape.\nThis 2 storey villa is extremely spacious and has 4 bedrooms with attached bathrooms, a private pool and a small lawn area.\n• Ground floor of the villa is designed with a spacious, air conditioned living area and is equipped with a bathroom\n• The ground floor of the villa consists of a 2 occupancy air-conditioned bedroom with attached bathroom, air-conditioned living area, and a bathroom\n• A workspace set up is created near the living area",
+  "checkIn": 2,
+  "checkOut": 1,
+  "maxGuests": 3,
+  "price": 15400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f82f"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Centre place Graslin - Chambre privée La Cambronne",
+  "address": "Nantes, Pays de la Loire, France",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686841899/Airbnb/Places/qcixfhj7vlhoqu8dzhqh.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686841915/Airbnb/Places/nogcehkqhkr8hduyg7fu.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686841924/Airbnb/Places/y0m8q3xzotwmlxmdy0fk.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686841937/Airbnb/Places/m5tuhpoa7fglbpqafkff.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686841952/Airbnb/Places/mhxoxnxlaelhjrtrrg17.jpg"
+  ],
+  "description": "Enjoy an elegant private room of 20 m2 in a renovated 160 m2 apartment in the heart of downtown Nantes, in the Graslin neighborhood.\nThe charm of the renovated old: ceiling height of 3.60m, period parquet flooring, black marble fireplace, comfortable bathroom.",
+  "perks": [
+    "wifi",
+    "parking",
+    "tv",
+    "radio",
+    "pets",
+    "enterence"
+  ],
+  "extraInfo": "Step through the door of this Haussmann-style building dating back to 1793. You will enter a majestic entrance hall and climb a wide stone staircase to the 3rd floor (no elevator).\nThe room can accommodate 2 people. If you are traveling with an additional adult, the \"La Graslin\" room in the same accommodation may be available to accommodate them, depending on the availability of that room. Please see the \"La Graslin\" listing on my profile.\nYou will be close to all the amenities of downtown: restaurants, cafes, the Graslin theater, grocery stores, and all kinds of shops.\nThe central transportation hub for public transportation in Nantes (tram, bus, busway) is a 2-minute walk from the building.\nThe train station is less than 10 minutes away by tram without changing trains (3 stops to Commerce).\nFor our environmentally friendly friends, a \"bicloo\" bike rental station is available right outside the building.\nThe apartment is ideally located for your sightseeing activities: it is situated 10 minutes away from the Machines de l'Ile and Les Nefs, 2 minutes from the Passage Pommeray and the Place Royale, and a 10-minute walk from the Castle of the Dukes.",
+  "checkIn": 13,
+  "checkOut": 11,
+  "maxGuests": 3,
+  "price": 36488,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f830"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "The Cloudberry, Cozy 2BHK radiator heated, Shimla",
+  "address": "  Mashobra, Himachal Pradesh, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686842471/Airbnb/Places/vhtwx0pn5gqva7jizu2t.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686842484/Airbnb/Places/rujbhmqvhwy1r4j1iexh.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686842494/Airbnb/Places/p2yo0ed2cj00mqjojqlc.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686842503/Airbnb/Places/m1ae79dxsmxgfqoak53r.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686842514/Airbnb/Places/nwzu4hl2db4hjkz7zhac.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686842523/Airbnb/Places/utwpysphrwubray6t3ld.jpg"
+  ],
+  "description": "Our woody 2 bhk apartment will make sure you have the best view that Shimla has to offer from the comfort of your own home.\n\n- 30 mins from Shimla mall\n- Sloping wooden roof\n- High speed broadband\n- HOME STYLE FRESH FOOD available for delivery\n- New renovated bathrooms & kitchen",
+  "perks": [
+    "wifi",
+    "tv",
+    "parking",
+    "radio",
+    "enterence"
+  ],
+  "extraInfo": "This top floor Attic home has a unique woody feel and panoramic views of the mountains.\n\nThe spacious terrace has a sitting arrangement for 4 and has the most gorgeous views you can soak in from all of the Shimla region ( influencers vouch for it) . We can arrange for a bonfire or barbecue in the terrace as well.\n\nWe don't let out rooms individually and the whole apartment together as the living space and the terrace is common. There is an independent staircase to the house. If you are a big group we can club this apartment with the one below to accommodate your gang - check out Plumcove",
+  "checkIn": 14,
+  "checkOut": 11,
+  "maxGuests": 1,
+  "price": 3512,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f831"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Jobless Wanderer's Home | A Kathkuni Heritag",
+  "address": "  Tandi, Himachal Pradesh, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686848350/Airbnb/Places/vsbroszff9pc5q7wmgxn.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686848361/Airbnb/Places/fmudvb7edv4nng89ipky.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686848371/Airbnb/Places/dnovfm47riskzsfwio5p.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686848381/Airbnb/Places/hfmuqtw4wenxb1z4elsz.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686848388/Airbnb/Places/j9e87ar1ieirfpbkwcd7.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686848401/Airbnb/Places/k3huicow0s96mit2wwcw.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849156/Airbnb/Places/l5x0vtsxoo8elrrcxfsu.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849182/Airbnb/Places/gazm89dof8dmmef6haic.jpg"
+  ],
+  "description": "Ours is a traditional Himachali home, made of deodar, stones & mud, surrounded by a 360-degree view of the greater Himalayas. We live in an acre of farmland with our three dogs- Bhairon,Badal & Bijli. If your definition of luxury includes breath-taking views of mountains with colorful skies, hiking with mountain dogs and eating home grown/homemade meals, you couldn’t find a better place than ours! We also have excellent internet connectivity.",
+  "perks": [
+    "wifi",
+    "parking",
+    "tv",
+    "radio",
+    "pets",
+    "enterence"
+  ],
+  "extraInfo": "NOTE- READ ALL THE DESCRIPTION, HOUSE RULES CAREFULLY BEFORE CONFIRMING YOUR RESERVATION.\nOur property is located at the top of TANDI village and is the last house, bordering a giant pine wood forest as our backyard. Earlier a homestead to a local king, the base of our home is nearly 150 years old! Sat atop perching on a commanding angle, the spectacular views all around justifies the location astutely. The kilometer long hike to reach our place would make sense to our guests, we promise! (the place might not be ideal for Minors and senior citizens because of it's landscape)\n\nPlease Read the Instructions and \" OTHER DETAILS TO NOTE\" section properly before confirming your reservation .",
+  "checkIn": 10,
+  "checkOut": 14,
+  "maxGuests": 3,
+  "price": 10320,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f832"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Atithi Homestay (mountain view room)",
+  "address": "Bir, Himachal Pradesh, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849655/Airbnb/Places/bdkwaqmryz2by6htyban.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849660/Airbnb/Places/op3httwyuph7joiodwvp.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849665/Airbnb/Places/azmthicwsbnzemmybmbd.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849672/Airbnb/Places/jtl1q7xnmmaz2a2m1rpc.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849825/Airbnb/Places/usno5txysjh112wtcnhe.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849831/Airbnb/Places/cxlaafjrsagw93ini71x.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849837/Airbnb/Places/ztpl7nyq0wpo1trhf88j.jpg"
+  ],
+  "description": "You'll enjoy your time at this cheerful getaway.",
+  "perks": [
+    "wifi",
+    "tv",
+    "radio",
+    "parking"
+  ],
+  "extraInfo": "sirf shanti or sakoon",
+  "checkIn": 10,
+  "checkOut": 9,
+  "maxGuests": 4,
+  "price": 9123,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f833"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Steigen Lodge Sjøhytte Våg nr 1",
+  "address": "Engeløya, Nordland, Norway",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849912/Airbnb/Places/k2jkwnfij0ohtztxwp83.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849917/Airbnb/Places/v5qu23q20y84hmkxdek1.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849922/Airbnb/Places/vm36dkb3hmib3bevdzmz.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849925/Airbnb/Places/iucdtcg5v2iiqulqjxh7.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849930/Airbnb/Places/bgsppbdkmephqo0pxz99.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849940/Airbnb/Places/vcza4ogbldxazhr0hadt.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686849946/Airbnb/Places/k6revlqiieqx19foupst.jpg"
+  ],
+  "description": "We want everyone to experience nature as closely as possible. That's why we have built three small cabins/houses with large glass windows everywhere, so you can sit inside and enjoy the mountains, the horizon, the sea, the sunsets, and the midnight sun.\n\nIt's not always sunny on the island, so we have a comfortable sofa that can also be converted into a daybed for moments when you want to sit inside, snuggle under a blanket, watch the rain and the wind, yet still have a wonderful experience of the ever-changing nature.",
+  "perks": [
+    "tv",
+    "wifi",
+    "enterence",
+    "pets",
+    "radio",
+    "parking"
+  ],
+  "extraInfo": "We have two bedrooms, one with a bunk bed and one with a double bed. All of them have large windows so you can stay in bed and be just centimeters away from spectacular nature. Most of the beds offer a sea view. There is a small loft for storage, and the cabins/house are equipped with everything you need for daily use.\n\nDespite their small size, the cabins feel spacious, and there are many private areas if you want to be alone.\n\nThe cabins are located in Vågsnesset, surrounded by the sea and mountains. There is no direct road access, so you have to walk 150 meters from the parking area. Since there is no road, you can take your coffee cup out onto the porch and be right in one of the most beautiful hiking areas of Engeløya.",
+  "checkIn": 12,
+  "checkOut": 10,
+  "maxGuests": 6,
+  "price": 96000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f834"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "villa in forest inside of istanbul",
+  "address": "  Silivri, İstanbul, Turkey",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850128/Airbnb/Places/kmhud95q9od17yfnctal.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850134/Airbnb/Places/qqogepmeactrosvopo5j.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850138/Airbnb/Places/zs2yrjp0iinnc21whad6.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850143/Airbnb/Places/ok6enzuev5donu0rchvc.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850147/Airbnb/Places/pif1ofdullkej76dvphl.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850151/Airbnb/Places/w88axcosawblms0boo20.jpg"
+  ],
+  "description": "This unique and tranquil getaway is a villa very close to the lake where you can light and enjoy your fireplace with complete pines in two unique acres just 50 km from the city center, where you can light and enjoy your fireplace with its environmental structure and solar and wind energy.",
+  "perks": [
+    "pets",
+    "enterence",
+    "parking",
+    "wifi",
+    "tv",
+    "radio"
+  ],
+  "extraInfo": "",
+  "checkIn": 10,
+  "checkOut": 8,
+  "maxGuests": 2,
+  "price": 25990,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f835"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Leafy Greens Chiangmai : Mushroom M2",
+  "address": "Mueang Chiang Mai District, Chiang Mai, Thailand",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850296/Airbnb/Places/pxo2g99d41gujrvwrntm.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850300/Airbnb/Places/oyalppcrknzunaqohqvj.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850305/Airbnb/Places/veqfvwy4aq9rh8pfppag.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850310/Airbnb/Places/ddxffjryafpqq9zlrlqa.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850316/Airbnb/Places/v2mzj1cs44pyaiszlxnz.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1686850323/Airbnb/Places/sjogaszuhhhfmhaatke5.jpg"
+  ],
+  "description": "Leafy Greens was built as a retreat center for our family and friends. It is where people would visit to refreshing their souls and mind. We work so hard to make this place to be one of the place that we can live in harmony with nature. That is why the cob houses are the right choice for us. Not only the buildings are eco-friendly but also the garden is organic. Visit here you will be able to take a deep breath and enjoy the fresh air with organic environment. It is a perfect place to getaway!!",
+  "perks": [
+    "tv",
+    "wifi",
+    "parking",
+    "radio",
+    "enterence"
+  ],
+  "extraInfo": "This clay house was built for a meditation course and It was designed for people to learn being with themselves that is why the function of the house is simple. The house is 35 square meters with essential facilities. It might be considered as a tiny house, yet it’s comfortable for 3 people living together. It has 2 stories:-2 futons on the upper area is like an attic room and 1 bed on the ground floor. The entire house was made of clay (earth), it is not only an eco-friendly building but also good for our health. We believe that our body will absorb good energy from the earth, this means an earthy house brings you close to nature and eliminates bad energy out. It is a very special house for us, too special actually to keep it only for family and friends so we decided to share our paradise to everyone. Hope you would love it like we do.\n",
+  "checkIn": 10,
+  "checkOut": 9,
+  "maxGuests": 3,
+  "price": 9827,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f836"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": " GAAJ by Green Gold Coastal Agro Resort-COTTAGE - 4",
+  "address": "Palshet, Maharashtra, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692713926/Airbnb/Places/kgose8dnycaitlrnuhjc.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692713930/Airbnb/Places/si7lbbsex3lzihfjh3of.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692713935/Airbnb/Places/n4gvmcgau5gl6q4rertr.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692713938/Airbnb/Places/khd0spp3fgvltqsysoby.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692713944/Airbnb/Places/kzhanrguhxbo3okmlyxa.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692713949/Airbnb/Places/sebgwp8j8n1cusaqnq57.jpg"
+  ],
+  "description": "Silent Features\n8.5 Acers sea side Property\nVirgin beach\nInfinity Pool\nMachan\nGenerator Back up\nA/C Villas\nEach Villa Have Refrigerator\nEach Villa Have Electronic Safe\nIntercom Facility\nOpen Theater\nHomely Food\nIndoor Games :- Carom,Cards\nOut door Games :- Cricket,Foot Ball,Volley Ball,Badminton\nSurrounded by Cashew , Mango & Coconut Trees",
+  "perks": [
+    "wifi",
+    "radio",
+    "enterence",
+    "tv"
+  ],
+  "extraInfo": "We have Five Bamboo Villas ,each having Double occupancy. We can provided One Extra Bed in Each Villa.\nMore than Three Guest have to book Two bamboo Villas.",
+  "checkIn": 14,
+  "checkOut": 13,
+  "maxGuests": 1,
+  "price": 7500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e6358047c831dd2bd8f837"
+  },
+  "owner": {
+    "$oid": "64e633d750796e7aecc0a93b"
+  },
+  "title": "Lake View Deluxe Double Room Alleppey",
+  "address": "Kainakary South, Kerala, India",
+  "photos": [
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692714980/Airbnb/Places/eopo8kuwj1ayiyvzjrln.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692714984/Airbnb/Places/sw2yxy0hw6spvcxrowlj.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692714990/Airbnb/Places/enysoingabkl6jiqpyhz.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692714996/Airbnb/Places/tm2dyeq3xm5kdi95xpow.jpg",
+    "https://res.cloudinary.com/rahul4019/image/upload/v1692715005/Airbnb/Places/zjgjjrqqcsd5kxwt9ghn.jpg"
+  ],
+  "description": "You could view sunset from the property. Backwater in front of our property makes you feel great and relaxed stay. Explore the backwaters and experience tranquility and its scenic surroundings. Wake up to the greetings of the sun and indulge in the classic beauty of Kerala in all its glory. My place is good for couples, solo adventurers, business travelers, families (with kids), big groups",
+  "perks": [
+    "wifi",
+    "parking",
+    "tv",
+    "enterence"
+  ],
+  "extraInfo": "Houseboats in Kerala, south India, are huge, slow-moving barges used for leisure trips. They are a reworked model of Kettuvallams (in the Malayalam language, Kettu means \"tied with ropes\", andvallam means \"boat\"), which, in earlier times, were used to carry rice and spices from\nKuttanad to the Kochi port. Kerala houseboats were considered a convenient means of transportation. The popularity of Kettuvallams has returned in the function as major tourist attractions. Such a houseboat is about 60 to 120 feet (18 to 36 m) long and about 15 feet (4.6 m) wide at the middle. The hull is made of wooden planks that are held together by ropes of coconut fiber; the usual wood is 'Anjili'. The roof is made of bamboo poles and palm leaves. The exterior of the boat is painted with protective coats of cashew nut oil.",
+  "checkIn": null,
+  "checkOut": null,
+  "maxGuests": 4,
+  "price": 4700,
+  "__v": 0
+}]
